@@ -1,5 +1,6 @@
 # Gopher
 A server for the Gopher protocol written in Go initially based on [gopher](https://github.com/peterhellberg/gopher) by [Peter Hellberg](https://github.com/peterhellberg). This version includes the option to serve the content over TLS.
+> **Note:** This project might have bugs, do not expect any stability guarantees.
 
 ## TODO:
 * refractor code (im lazy)
