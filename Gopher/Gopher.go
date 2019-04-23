@@ -1,4 +1,4 @@
-package Gopher
+package gopher
 
 import (
 	"bufio"
@@ -13,9 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"../Libs/Listing"
+	listing "../Libs/Listing"
 )
 
+//Server is a structor to contain the config information for the server.
 type Server struct {
 	Log     string
 	Host    string
@@ -43,6 +44,7 @@ func log(infoType string, info string, log string) {
 	return
 }
 
+//ListenTLS inits TLS server
 func (server *Server) ListenTLS() error {
 	certificate, _error := tls.LoadX509KeyPair("certs/server.pem", "certs/server.key")
 	if _error != nil {
@@ -79,6 +81,7 @@ func (server *Server) ListenTLS() error {
 	}
 }
 
+//Listen inits server
 func (server *Server) Listen() error {
 	listen, _error := net.Listen("tcp", server.Host+":"+server.Port)
 	if _error != nil {
@@ -132,7 +135,7 @@ func (server *Server) handlerTLS(path *string, param *string, connection *tls.Co
 			return
 		}
 		if fileindex.IsDir() {
-			var list Listing.Listing
+			var list listing.Listing
 
 			filepath.Walk(filename, func(path string, info os.FileInfo, _error error) error {
 				if info.IsDir() {
@@ -162,7 +165,7 @@ func (server *Server) handler(path *string, param *string, connection *net.TCPCo
 			return
 		}
 		if fileindex.IsDir() {
-			var list Listing.Listing
+			var list listing.Listing
 
 			filepath.Walk(filename, func(path string, info os.FileInfo, _error error) error {
 				if info.IsDir() {

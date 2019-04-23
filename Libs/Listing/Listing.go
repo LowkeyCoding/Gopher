@@ -1,4 +1,4 @@
-package Listing
+package listing
 
 import (
 	"bytes"
@@ -6,9 +6,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"../Entry"
+	entry "../Entry"
 )
 
+//Extensions maps extensions to their apropriate canonical type.
 var Extensions = map[string]byte{
 	"aiff":     's',
 	"au":       's',
@@ -46,8 +47,9 @@ var Extensions = map[string]byte{
 	"xml":      '0',
 }
 
+//Listing a struct to contain a list of entries.
 type Listing struct {
-	entries []Entry.Entry
+	entries []entry.Entry
 }
 
 func (listing Listing) String() string {
@@ -70,17 +72,19 @@ func (listing Listing) String() string {
 	return buffer.String()
 }
 
+//AppendDir appends a directory to the list of entries. Returns a error used as a return value from WalkFuncs to indicate that the directory named in the call is to be skipped.
 func (listing *Listing) AppendDir(name, path, root, host, port string) error {
 	if len(listing.entries) == 0 {
-		listing.entries = append(listing.entries, Entry.Entry{}) // sentinel value
+		listing.entries = append(listing.entries, entry.Entry{}) // sentinel value
 		return nil
 	}
 
-	listing.entries = append(listing.entries, Entry.Entry{'1', name, path[len(root)-1:], host, port})
+	listing.entries = append(listing.entries, entry.Entry{'1', name, path[len(root)-1:], host, port})
 
 	return filepath.SkipDir
 }
 
+//AppendFile appends a file to the list of entries.
 func (listing *Listing) AppendFile(name, path, root, host, port string) {
 	_type := byte('9') // Binary
 
@@ -90,5 +94,5 @@ func (listing *Listing) AppendFile(name, path, root, host, port string) {
 			break
 		}
 	}
-	listing.entries = append(listing.entries, Entry.Entry{_type, name, path[len(root)-1:], host, port})
+	listing.entries = append(listing.entries, entry.Entry{_type, name, path[len(root)-1:], host, port})
 }
