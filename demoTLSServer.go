@@ -1,8 +1,12 @@
 package main
 
-import gopher "./Gopher"
+import (
+	"crypto/tls"
+
+	gophers "./Gophers"
+)
 
 func main() {
-	server := gopher.Server{"./log/log.txt", "192.168.1.114", "70", "7070", "./Root"}
-	server.ListenTLS()
+	server := gophers.ServerTLS{"./log/log.txt", "192.168.1.114", "7070", "./Root", "./certs"}
+	server.Listen(func(*string, *string, *tls.Conn) {})
 }

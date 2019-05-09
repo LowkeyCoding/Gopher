@@ -1,9 +1,12 @@
-package gopher
+package gophers
 
 import (
+	"bufio"
+	"crypto/rand"
+	"crypto/tls"
+	"crypto/x509"
 	"fmt"
 	"io"
-	"net"
 	"os"
 	"path/filepath"
 	"strings"
@@ -12,47 +15,64 @@ import (
 	listing "../Libs/Listing"
 )
 
-//Server is a structor to contain the config information for the server.
-type Server struct {
-	Log  string
-	Host string
-	Port string
-	Root string
+type ServerTLS struct {
+	Log          string
+	Host         string
+	Port         string
+	Root         string
+	Certificates string
 }
 
-//Listen inits server
-func (server *Server) Listen(customHandlerFunc func(*string, *string, *net.TCPConn)) error {
-	listen, _error := net.Listen("tcp", server.Host+":"+server.Port)
+//ListenTLS inits TLS server
+func (server *ServerTLS) Listen(customHandlerFunc func(*string, *string, *tls.Conn)) error {
+	certificate, _error := tls.LoadX509KeyPair(server.Certificates+"/server.pem", server.Certificates+"/server.key")
 	if _error != nil {
 		log("ERROR", _error.Error()+"\n", server.Log)
 		return _error
 	}
-
-	log("INFO", "Listening on gopher://"+server.Host+":"+server.Port+"\n", server.Log)
-
+	config := tls.Config{Certificates: []tls.Certificate{certificate}}
+	config.Rand = rand.Reader
+	listenTLS, _error := tls.Listen("tcp", server.Host+":"+server.Port, &config)
+	if _error != nil {
+		log("ERROR", _error.Error()+"\n", server.Log)
+		return _error
+	}
+	log("INFO", "Listening on gophers://"+server.Host+":"+server.Port+"\n", server.Log)
 	for {
-		connection, _error := listen.Accept()
+		connectionTLS, _error := listenTLS.Accept()
 		if _error != nil {
 			log("ERROR", _error.Error()+"\n", server.Log)
 			return _error
 		}
+		log("INFO", "Connection accepted"+"\n", server.Log)
 
-		go server.serve(connection.(*net.TCPConn), customHandlerFunc)
+		defer connectionTLS.Close()
+
+		TLSconnection, ok := connectionTLS.(*tls.Conn)
+		if ok {
+			state := TLSconnection.ConnectionState()
+			for _, v := range state.PeerCertificates {
+				_byte, _ := x509.MarshalPKIXPublicKey(v.PublicKey)
+				log("INFO", string(_byte), server.Log)
+			}
+		}
+		go server.serve(connectionTLS.(*tls.Conn), customHandlerFunc)
 	}
 }
 
-func (server *Server) serve(connection *net.TCPConn, customHandlerFunc func(*string, *string, *net.TCPConn)) {
+func (server *ServerTLS) serve(connection *tls.Conn, customHandlerFunc func(*string, *string, *tls.Conn)) {
 	defer connection.Close()
 	path, param, _error := server.parseURL(connection)
 	if _error != nil {
 		log("ERROR", _error.Error()+"\n", server.Log)
 		return
 	}
+	log("INFO", "ServeTLS: "+path+"\n", server.Log)
 	server.handler(&path, &param, connection, false, customHandlerFunc)
 }
 
-func (server *Server) handler(path *string, parameter *string, connection *net.TCPConn, customHandler bool,
-	customHandlerFunc func(*string, *string, *net.TCPConn)) {
+func (server *ServerTLS) handler(path *string, parameter *string, connection *tls.Conn, customHandler bool,
+	customHandlerFunc func(path *string, parameter *string, connection *tls.Conn)) {
 	if customHandler {
 		customHandlerFunc(path, parameter, connection)
 	} else {
@@ -60,7 +80,7 @@ func (server *Server) handler(path *string, parameter *string, connection *net.T
 	}
 }
 
-func (server *Server) defaultHandler(path *string, connection *net.TCPConn) {
+func (server *ServerTLS) defaultHandler(path *string, connection *tls.Conn) {
 	log("INFO", "Serve: "+*path+"\n", server.Log)
 	if *path == "/" {
 		server.sendFile("/index", connection)
@@ -90,7 +110,7 @@ func (server *Server) defaultHandler(path *string, connection *net.TCPConn) {
 	}
 }
 
-func (server *Server) sendFile(path string, connection *net.TCPConn) {
+func (server *ServerTLS) sendFile(path string, connection *tls.Conn) {
 	filename := server.filename(path)
 	file, _error := os.Open(filename)
 	if _error != nil {
@@ -99,8 +119,20 @@ func (server *Server) sendFile(path string, connection *net.TCPConn) {
 	}
 
 	defer file.Close()
-
-	connection.ReadFrom(file)
+	fileInfo, _error := file.Stat()
+	if _error != nil {
+		log("ERROR", _error.Error()+"\n", server.Log)
+		return
+	}
+	size := fileInfo.Size()
+	bytes := make([]byte, size)
+	buffer := bufio.NewReader(file)
+	_, _error = buffer.Read(bytes)
+	if _error != nil {
+		log("ERROR", _error.Error()+"\n", server.Log)
+		return
+	}
+	connection.Write(bytes)
 }
 
 //Helper functions
@@ -123,12 +155,12 @@ func log(infoType string, info string, log string) {
 	return
 }
 
-func (server *Server) filename(path string) string {
+func (server *ServerTLS) filename(path string) string {
 	cPath := filepath.Clean("/" + path)
 	return server.Root + cPath
 }
 
-func (server *Server) parseURL(reader io.Reader) (string, string, error) {
+func (server *ServerTLS) parseURL(reader io.Reader) (string, string, error) {
 	buf := make([]byte, 512)
 	length, _error := reader.Read(buf)
 	if _error != nil {
