@@ -1,1 +1,0 @@
-[2019-05-04 16:24:30] [client: write: ] tls: use of closed connection[2019-05-04 16:24:30] [client: write: ] read tcp 192.168.1.114:64460->192.168.1.114:7070: use of closed network connection[2019-05-04 17:44:55] [client: dial: ] x509: certificate signed by unknown authority
