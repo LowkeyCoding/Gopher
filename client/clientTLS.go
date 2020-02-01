@@ -164,6 +164,7 @@ func (client *Client) rendere(screen tcell.Screen) {
 
 						//FORM
 						if line.ItemType == "7" {
+							/*
 							client.connect(line.Hostname + ":" + line.Port)
 							client.writeToServer(line.Selector, client.currentPage)
 							screen.Clear()
@@ -171,7 +172,7 @@ func (client *Client) rendere(screen tcell.Screen) {
 							client.scrollOffset = 0
 							client.cursorPos = 0
 							client.currentPage.renderSite(screen, client)
-							client.visitedPages = append(client.visitedPages, line)
+							client.visitedPages = append(client.visitedPages, line)*/
 						}
 					}
 				case tcell.KeyCtrlL:
