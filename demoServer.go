@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	server := gopher.Server{"./log/log.txt", "192.168.1.114", "70", "./Root"}
+	server := gopher.Server{"./log/log.txt", "192.168.1.147", "70", "./Root"}
 	server.Listen(func(*string, *string, *net.TCPConn) {})
 }

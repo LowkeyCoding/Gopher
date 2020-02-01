@@ -4,7 +4,9 @@ import (
 	"crypto/tls"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"os"
+	"strconv"
 	"strings"
 	"time"
 
@@ -15,9 +17,9 @@ func main() {
 	site := Site{}
 	client := Client{log: "./log/client.txt", currentPage: &site, currentLine: 0, cursorPos: 0, scrollOffset: 0}
 	client.configure("./certs/client")
-	client.connect("192.168.1.114:7070")
+	client.connect("192.168.1.147:7070")
 	client.writeToServer("/", &site)
-	client.visitedPages = append(client.visitedPages, Line{"1", "index", "/", "192.168.1.114", "7070"})
+	client.visitedPages = append(client.visitedPages, Line{"1", "index", "/", "192.168.1.147", "7070"})
 	screen := client.initRendere()
 	screen.Clear()
 	site.renderSite(screen, &client)
@@ -45,7 +47,6 @@ type Client struct {
 	visitedPages []Line
 	currentLine  int
 	cursorPos    int
-	lineOffset   int
 	scrollOffset int
 }
 
@@ -58,7 +59,7 @@ func (client *Client) configure(path string) {
 }
 
 func (client *Client) connect(adress string) {
-	connection, err := tls.Dial("tcp", "192.168.1.114:7070", &client.config)
+	connection, err := tls.Dial("tcp", "192.168.1.147:7070", &client.config)
 	if err != nil {
 		log("client: dial: ", err.Error(), client.log)
 	}
@@ -67,16 +68,15 @@ func (client *Client) connect(adress string) {
 
 func (client *Client) writeToServer(message string, site *Site) {
 	defer client.connection.Close()
-	n, err := io.WriteString(client.connection, message)
+	_, err := io.WriteString(client.connection, message)
 	if err != nil {
 		log("client: write: ", err.Error(), client.log)
 	}
-
-	reply, n, err := client.connection.ReadDynamic()
+	reply, err := ioutil.ReadAll(client.connection)
 	if err != nil {
 		log("client: write: ", err.Error(), client.log)
 	}
-	site.parseSite(string(reply[:n]))
+	site.parseSite(string(reply))
 }
 
 func (client *Client) initRendere() tcell.Screen {
@@ -111,12 +111,12 @@ func (client *Client) rendere(screen tcell.Screen) {
 					client.cursorPos--
 					_, height := screen.Size()
 					if client.cursorPos < 0 && len(client.currentPage.Lines) < 15 {
-						client.cursorPos = len(client.currentPage.Lines)
+						client.cursorPos = len(client.currentPage.Lines) - 1
 					} else if client.cursorPos < 0 {
 						client.cursorPos = 0
 						client.scrollOffset--
 						if client.scrollOffset < 0 {
-							client.scrollOffset = len(client.currentPage.Lines) - height + 1
+							client.scrollOffset = len(client.currentPage.Lines) - height
 							client.cursorPos = height - 1
 							client.currentLine = len(client.currentPage.Lines) - 1
 						}
@@ -129,31 +129,49 @@ func (client *Client) rendere(screen tcell.Screen) {
 					_, height := screen.Size()
 					if client.cursorPos > len(client.currentPage.Lines)-1 {
 						client.cursorPos = 0
+						client.currentLine = 0
 					} else if client.cursorPos >= height {
 						client.scrollOffset++
 						client.cursorPos = height - 1
-						if client.scrollOffset > len(client.currentPage.Lines)-height+1 {
+						if client.scrollOffset > len(client.currentPage.Lines)-height {
 							client.scrollOffset = 0
 							client.cursorPos = 0
 							client.currentLine = 0
 							screen.Clear()
 							client.currentPage.renderSite(screen, client)
 						}
+
 						screen.Clear()
 						client.currentPage.renderSite(screen, client)
 					}
 				case tcell.KeyEnter:
-					if client.currentLine > 1 {
+					if client.currentLine >= 0 {
+						log("DEBUG", "currentline: "+strconv.Itoa(client.currentLine), "./log/client.txt")
 						line := client.currentPage.Lines[client.currentLine]
 						log("DEBUG", "ItemType: "+line.ItemType+" DisplayText: "+line.Displaytext, "./log/client.txt")
+
+						//DIRECTORY
 						if line.ItemType == "1" {
 							client.connect(line.Hostname + ":" + line.Port)
 							client.writeToServer(line.Selector, client.currentPage)
 							screen.Clear()
+							client.currentLine = 0
+							client.scrollOffset = 0
+							client.cursorPos = 0
 							client.currentPage.renderSite(screen, client)
 							client.visitedPages = append(client.visitedPages, line)
+						}
+
+						//FORM
+						if line.ItemType == "7" {
+							client.connect(line.Hostname + ":" + line.Port)
+							client.writeToServer(line.Selector, client.currentPage)
+							screen.Clear()
 							client.currentLine = 0
+							client.scrollOffset = 0
 							client.cursorPos = 0
+							client.currentPage.renderSite(screen, client)
+							client.visitedPages = append(client.visitedPages, line)
 						}
 					}
 				case tcell.KeyCtrlL:
@@ -291,7 +309,6 @@ func addToString(initialString, addString string, times int) string {
 
 func log(infoType, info, log string) {
 	currentTime := "[" + time.Now().Format("2006-01-02 15:04:05") + "] "
-	println(currentTime + "[" + infoType + "] " + info + "\n")
 	file, _error := os.OpenFile(log, os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0600)
 	if _error != nil {
 		println(currentTime + "[ERROR] " + _error.Error() + "\n")

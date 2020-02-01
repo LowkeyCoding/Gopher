@@ -1,0 +1,966 @@
+[2020-02-01 20:37:49] [INFO] Listening on gophers://192.168.1.147:7070
+[2020-02-01 21:24:15] [INFO] Connection accepted
+[2020-02-01 21:24:15] [INFO] ServeTLS: /
+[2020-02-01 21:24:15] [INFO] Serve: /
+[2020-02-01 21:25:57] [INFO] Connection accepted
+[2020-02-01 21:25:57] [INFO] ServeTLS: /
+[2020-02-01 21:25:57] [INFO] Serve: /
+[2020-02-01 21:27:40] [INFO] Connection accepted
+[2020-02-01 21:27:40] [INFO] ServeTLS: /
+[2020-02-01 21:27:40] [INFO] Serve: /
+[2020-02-01 21:29:28] [INFO] Connection accepted
+[2020-02-01 21:29:28] [INFO] ServeTLS: /
+[2020-02-01 21:29:28] [INFO] Serve: /
+[2020-02-01 21:30:53] [INFO] Connection accepted
+[2020-02-01 21:30:53] [INFO] ServeTLS: /
+[2020-02-01 21:30:53] [INFO] Serve: /
+[2020-02-01 21:32:13] [INFO] Connection accepted
+[2020-02-01 21:32:13] [INFO] ServeTLS: /
+[2020-02-01 21:32:13] [INFO] Serve: /
+[2020-02-01 21:33:16] [INFO] Connection accepted
+[2020-02-01 21:33:16] [INFO] ServeTLS: /
+[2020-02-01 21:33:16] [INFO] Serve: /
+[2020-02-01 21:33:37] [INFO] Connection accepted
+[2020-02-01 21:33:37] [INFO] ServeTLS: /
+[2020-02-01 21:33:37] [INFO] Serve: /
+[2020-02-01 21:33:40] [INFO] Connection accepted
+[2020-02-01 21:33:40] [INFO] ServeTLS: /gg
+[2020-02-01 21:33:40] [INFO] Serve: /gg
+[2020-02-01 21:34:04] [INFO] Connection accepted
+[2020-02-01 21:34:04] [INFO] ServeTLS: /
+[2020-02-01 21:34:04] [INFO] Serve: /
+[2020-02-01 21:34:23] [INFO] Connection accepted
+[2020-02-01 21:34:23] [INFO] ServeTLS: /gg
+[2020-02-01 21:34:23] [INFO] Serve: /gg
+[2020-02-01 21:35:07] [INFO] Connection accepted
+[2020-02-01 21:35:07] [INFO] ServeTLS: /
+[2020-02-01 21:35:07] [INFO] Serve: /
+[2020-02-01 21:35:10] [INFO] Connection accepted
+[2020-02-01 21:35:10] [INFO] ServeTLS: /gg
+[2020-02-01 21:35:10] [INFO] Serve: /gg
+[2020-02-01 21:35:31] [INFO] Connection accepted
+[2020-02-01 21:35:31] [INFO] ServeTLS: /
+[2020-02-01 21:35:31] [INFO] Serve: /
+[2020-02-01 21:36:30] [INFO] Connection accepted
+[2020-02-01 21:36:30] [INFO] ServeTLS: /gg
+[2020-02-01 21:36:30] [INFO] Serve: /gg
+[2020-02-01 21:39:32] [INFO] Connection accepted
+[2020-02-01 21:39:32] [INFO] ServeTLS: /
+[2020-02-01 21:39:32] [INFO] Serve: /
+[2020-02-01 21:39:34] [INFO] Connection accepted
+[2020-02-01 21:39:34] [INFO] ServeTLS: /gg
+[2020-02-01 21:39:34] [INFO] Serve: /gg
+[2020-02-01 21:39:35] [INFO] Connection accepted
+[2020-02-01 21:39:35] [INFO] ServeTLS: /index
+[2020-02-01 21:39:35] [INFO] Serve: /index
+[2020-02-01 21:39:40] [INFO] Connection accepted
+[2020-02-01 21:39:40] [INFO] ServeTLS: /gg
+[2020-02-01 21:39:40] [INFO] Serve: /gg
+[2020-02-01 21:39:41] [INFO] Connection accepted
+[2020-02-01 21:39:41] [INFO] ServeTLS: /index
+[2020-02-01 21:39:41] [INFO] Serve: /index
+[2020-02-01 21:39:43] [INFO] Connection accepted
+[2020-02-01 21:39:43] [INFO] ServeTLS: /gg
+[2020-02-01 21:39:43] [INFO] Serve: /gg
+[2020-02-01 21:39:44] [INFO] Connection accepted
+[2020-02-01 21:39:44] [INFO] ServeTLS: /index
+[2020-02-01 21:39:44] [INFO] Serve: /index
+[2020-02-01 21:40:09] [INFO] Connection accepted
+[2020-02-01 21:40:09] [INFO] ServeTLS: /memes
+[2020-02-01 21:40:09] [INFO] Serve: /memes
+[2020-02-01 21:40:51] [INFO] Connection accepted
+[2020-02-01 21:40:51] [INFO] ServeTLS: /
+[2020-02-01 21:40:51] [INFO] Serve: /
+[2020-02-01 21:40:54] [INFO] Connection accepted
+[2020-02-01 21:40:54] [INFO] ServeTLS: /memes
+[2020-02-01 21:40:54] [INFO] Serve: /memes
+[2020-02-01 21:42:36] [INFO] Connection accepted
+[2020-02-01 21:42:36] [INFO] ServeTLS: /
+[2020-02-01 21:42:36] [INFO] Serve: /
+[2020-02-01 21:42:40] [INFO] Connection accepted
+[2020-02-01 21:42:40] [INFO] ServeTLS: /memes
+[2020-02-01 21:42:40] [INFO] Serve: /memes
+[2020-02-01 21:42:41] [INFO] Connection accepted
+[2020-02-01 21:42:41] [INFO] ServeTLS: memes\spicymemes
+[2020-02-01 21:42:41] [INFO] Serve: memes\spicymemes
+[2020-02-01 21:42:42] [INFO] Connection accepted
+[2020-02-01 21:42:42] [INFO] ServeTLS: /memes
+[2020-02-01 21:42:42] [INFO] Serve: /memes
+[2020-02-01 21:42:43] [INFO] Connection accepted
+[2020-02-01 21:42:43] [INFO] ServeTLS: /
+[2020-02-01 21:42:43] [INFO] Serve: /
+[2020-02-01 21:45:43] [INFO] Connection accepted
+[2020-02-01 21:45:43] [INFO] ServeTLS: /
+[2020-02-01 21:45:43] [INFO] Serve: /
+[2020-02-01 21:46:05] [INFO] Connection accepted
+[2020-02-01 21:46:05] [INFO] ServeTLS: /
+[2020-02-01 21:46:05] [INFO] Serve: /
+[2020-02-01 21:47:05] [INFO] Connection accepted
+[2020-02-01 21:47:05] [INFO] ServeTLS: /
+[2020-02-01 21:47:05] [INFO] Serve: /
+[2020-02-01 21:47:08] [INFO] Connection accepted
+[2020-02-01 21:47:08] [INFO] ServeTLS: /gg
+[2020-02-01 21:47:08] [INFO] Serve: /gg
+[2020-02-01 21:52:37] [INFO] Connection accepted
+[2020-02-01 21:52:37] [INFO] ServeTLS: /
+[2020-02-01 21:52:37] [INFO] Serve: /
+[2020-02-01 21:53:01] [INFO] Connection accepted
+[2020-02-01 21:53:01] [INFO] ServeTLS: /
+[2020-02-01 21:53:01] [INFO] Serve: /
+[2020-02-01 21:53:05] [INFO] Connection accepted
+[2020-02-01 21:53:05] [INFO] ServeTLS: /gg
+[2020-02-01 21:53:05] [INFO] Serve: /gg
+[2020-02-01 21:53:44] [INFO] Connection accepted
+[2020-02-01 21:53:45] [INFO] ServeTLS: /
+[2020-02-01 21:53:45] [INFO] Serve: /
+[2020-02-01 21:53:48] [INFO] Connection accepted
+[2020-02-01 21:53:48] [INFO] ServeTLS: /gg
+[2020-02-01 21:53:48] [INFO] Serve: /gg
+[2020-02-01 21:54:37] [INFO] Connection accepted
+[2020-02-01 21:54:37] [INFO] ServeTLS: /index
+[2020-02-01 21:54:37] [INFO] Serve: /index
+[2020-02-01 21:55:03] [INFO] Connection accepted
+[2020-02-01 21:55:03] [INFO] ServeTLS: /gg
+[2020-02-01 21:55:03] [INFO] Serve: /gg
+[2020-02-01 21:59:02] [INFO] Connection accepted
+[2020-02-01 21:59:02] [INFO] ServeTLS: /
+[2020-02-01 21:59:02] [INFO] Serve: /
+[2020-02-01 21:59:13] [INFO] Connection accepted
+[2020-02-01 21:59:13] [INFO] ServeTLS: /gg
+[2020-02-01 21:59:13] [INFO] Serve: /gg
+[2020-02-01 21:59:42] [INFO] Connection accepted
+[2020-02-01 21:59:42] [INFO] ServeTLS: /
+[2020-02-01 21:59:42] [INFO] Serve: /
+[2020-02-01 22:02:00] [INFO] Connection accepted
+[2020-02-01 22:02:00] [INFO] ServeTLS: /
+[2020-02-01 22:02:00] [INFO] Serve: /
+[2020-02-01 22:03:41] [INFO] Connection accepted
+[2020-02-01 22:03:41] [INFO] ServeTLS: /gg
+[2020-02-01 22:03:41] [INFO] Serve: /gg
+[2020-02-01 22:04:55] [INFO] Connection accepted
+[2020-02-01 22:04:55] [INFO] ServeTLS: /
+[2020-02-01 22:04:55] [INFO] Serve: /
+[2020-02-01 22:05:03] [INFO] Connection accepted
+[2020-02-01 22:05:03] [INFO] ServeTLS: /gg
+[2020-02-01 22:05:03] [INFO] Serve: /gg
+[2020-02-01 22:06:07] [INFO] Connection accepted
+[2020-02-01 22:06:07] [INFO] ServeTLS: /
+[2020-02-01 22:06:07] [INFO] Serve: /
+[2020-02-01 22:06:09] [INFO] Connection accepted
+[2020-02-01 22:06:09] [INFO] ServeTLS: /gg
+[2020-02-01 22:06:09] [INFO] Serve: /gg
+[2020-02-01 22:06:12] [INFO] Connection accepted
+[2020-02-01 22:06:12] [INFO] ServeTLS: /index
+[2020-02-01 22:06:12] [INFO] Serve: /index
+[2020-02-01 22:06:36] [INFO] Connection accepted
+[2020-02-01 22:06:36] [INFO] ServeTLS: /memes
+[2020-02-01 22:06:36] [INFO] Serve: /memes
+[2020-02-01 22:07:15] [INFO] Connection accepted
+[2020-02-01 22:07:15] [INFO] ServeTLS: /
+[2020-02-01 22:07:15] [INFO] Serve: /
+[2020-02-01 22:07:36] [INFO] Connection accepted
+[2020-02-01 22:07:36] [INFO] ServeTLS: /memes
+[2020-02-01 22:07:36] [INFO] Serve: /memes
+[2020-02-01 22:07:38] [INFO] Connection accepted
+[2020-02-01 22:07:38] [INFO] ServeTLS: memes\spicymemes
+[2020-02-01 22:07:38] [INFO] Serve: memes\spicymemes
+[2020-02-01 22:07:43] [INFO] Connection accepted
+[2020-02-01 22:07:43] [INFO] ServeTLS: /memes
+[2020-02-01 22:07:43] [INFO] Serve: /memes
+[2020-02-01 22:07:49] [INFO] Connection accepted
+[2020-02-01 22:07:49] [INFO] ServeTLS: memes\spicymemes
+[2020-02-01 22:07:49] [INFO] Serve: memes\spicymemes
+[2020-02-01 22:07:57] [INFO] Connection accepted
+[2020-02-01 22:07:57] [INFO] ServeTLS: /memes
+[2020-02-01 22:07:57] [INFO] Serve: /memes
+[2020-02-01 22:07:58] [INFO] Connection accepted
+[2020-02-01 22:07:58] [INFO] ServeTLS: /
+[2020-02-01 22:07:58] [INFO] Serve: /
+[2020-02-01 22:08:03] [INFO] Connection accepted
+[2020-02-01 22:08:03] [INFO] ServeTLS: /memes
+[2020-02-01 22:08:03] [INFO] Serve: /memes
+[2020-02-01 22:10:26] [INFO] Connection accepted
+[2020-02-01 22:10:26] [INFO] ServeTLS: /
+[2020-02-01 22:10:26] [INFO] Serve: /
+[2020-02-01 22:10:31] [INFO] Connection accepted
+[2020-02-01 22:10:31] [INFO] ServeTLS: /memes
+[2020-02-01 22:10:31] [INFO] Serve: /memes
+[2020-02-01 22:10:35] [INFO] Connection accepted
+[2020-02-01 22:10:35] [INFO] ServeTLS: memes\spicymemes
+[2020-02-01 22:10:35] [INFO] Serve: memes\spicymemes
+[2020-02-01 22:10:36] [INFO] Connection accepted
+[2020-02-01 22:10:36] [INFO] ServeTLS: /memes
+[2020-02-01 22:10:36] [INFO] Serve: /memes
+[2020-02-01 22:10:37] [INFO] Connection accepted
+[2020-02-01 22:10:37] [INFO] ServeTLS: memes\spicymemes
+[2020-02-01 22:10:37] [INFO] Serve: memes\spicymemes
+[2020-02-01 22:10:38] [INFO] Connection accepted
+[2020-02-01 22:10:38] [INFO] ServeTLS: /memes
+[2020-02-01 22:10:38] [INFO] Serve: /memes
+[2020-02-01 22:10:38] [INFO] Connection accepted
+[2020-02-01 22:10:38] [INFO] ServeTLS: /
+[2020-02-01 22:10:38] [INFO] Serve: /
+[2020-02-01 22:10:44] [INFO] Connection accepted
+[2020-02-01 22:10:44] [INFO] ServeTLS: /gg
+[2020-02-01 22:10:44] [INFO] Serve: /gg
+[2020-02-01 22:10:45] [INFO] Connection accepted
+[2020-02-01 22:10:45] [INFO] ServeTLS: /index
+[2020-02-01 22:10:45] [INFO] Serve: /index
+[2020-02-01 22:10:45] [INFO] Connection accepted
+[2020-02-01 22:10:45] [INFO] ServeTLS: /gg
+[2020-02-01 22:10:45] [INFO] Serve: /gg
+[2020-02-01 22:10:46] [INFO] Connection accepted
+[2020-02-01 22:10:46] [INFO] ServeTLS: /index
+[2020-02-01 22:10:46] [INFO] Serve: /index
+[2020-02-01 22:10:49] [INFO] Connection accepted
+[2020-02-01 22:10:49] [INFO] ServeTLS: /memes
+[2020-02-01 22:10:49] [INFO] Serve: /memes
+[2020-02-01 22:10:52] [INFO] Connection accepted
+[2020-02-01 22:10:52] [INFO] ServeTLS: /index
+[2020-02-01 22:10:52] [INFO] Serve: /index
+[2020-02-01 22:10:53] [INFO] Connection accepted
+[2020-02-01 22:10:53] [INFO] ServeTLS: /memes
+[2020-02-01 22:10:53] [INFO] Serve: /memes
+[2020-02-01 22:10:54] [INFO] Connection accepted
+[2020-02-01 22:10:54] [INFO] ServeTLS: memes\spicymemes
+[2020-02-01 22:10:54] [INFO] Serve: memes\spicymemes
+[2020-02-01 22:10:55] [INFO] Connection accepted
+[2020-02-01 22:10:55] [INFO] ServeTLS: /memes
+[2020-02-01 22:10:55] [INFO] Serve: /memes
+[2020-02-01 22:10:55] [INFO] Connection accepted
+[2020-02-01 22:10:55] [INFO] ServeTLS: /index
+[2020-02-01 22:10:55] [INFO] Serve: /index
+[2020-02-01 22:10:56] [INFO] Connection accepted
+[2020-02-01 22:10:56] [INFO] ServeTLS: /gg
+[2020-02-01 22:10:56] [INFO] Serve: /gg
+[2020-02-01 22:10:56] [INFO] Connection accepted
+[2020-02-01 22:10:56] [INFO] ServeTLS: /index
+[2020-02-01 22:10:56] [INFO] Serve: /index
+[2020-02-01 22:11:00] [INFO] Connection accepted
+[2020-02-01 22:11:00] [INFO] ServeTLS: /memes
+[2020-02-01 22:11:00] [INFO] Serve: /memes
+[2020-02-01 22:11:02] [INFO] Connection accepted
+[2020-02-01 22:11:02] [INFO] ServeTLS: memes\spicymemes
+[2020-02-01 22:11:02] [INFO] Serve: memes\spicymemes
+[2020-02-01 22:11:03] [INFO] Connection accepted
+[2020-02-01 22:11:03] [INFO] ServeTLS: /memes
+[2020-02-01 22:11:03] [INFO] Serve: /memes
+[2020-02-01 22:11:04] [INFO] Connection accepted
+[2020-02-01 22:11:04] [INFO] ServeTLS: /index
+[2020-02-01 22:11:04] [INFO] Serve: /index
+[2020-02-01 22:11:06] [INFO] Connection accepted
+[2020-02-01 22:11:06] [INFO] ServeTLS: /gg
+[2020-02-01 22:11:06] [INFO] Serve: /gg
+[2020-02-01 22:11:06] [INFO] Connection accepted
+[2020-02-01 22:11:06] [INFO] ServeTLS: /index
+[2020-02-01 22:11:06] [INFO] Serve: /index
+[2020-02-01 22:18:48] [ERROR] listen tcp 192.168.1.114:70: bind: The requested address is not valid in its context.
+[2020-02-01 22:19:25] [INFO] Listening on gopher://192.168.1.147:70
+[2020-02-01 22:21:38] [INFO] Connection accepted
+[2020-02-01 22:21:38] [INFO] ServeTLS: /gg
+[2020-02-01 22:21:38] [INFO] Serve: /gg
+[2020-02-01 22:21:39] [INFO] Connection accepted
+[2020-02-01 22:21:39] [INFO] ServeTLS: /index
+[2020-02-01 22:21:39] [INFO] Serve: /index
+[2020-02-01 22:21:40] [INFO] Connection accepted
+[2020-02-01 22:21:40] [INFO] ServeTLS: /gg
+[2020-02-01 22:21:40] [INFO] Serve: /gg
+[2020-02-01 22:21:42] [INFO] Connection accepted
+[2020-02-01 22:21:42] [INFO] ServeTLS: /
+[2020-02-01 22:21:42] [INFO] Serve: /
+[2020-02-01 22:21:50] [INFO] Connection accepted
+[2020-02-01 22:21:50] [INFO] ServeTLS: /
+[2020-02-01 22:21:50] [INFO] Serve: /
+[2020-02-01 22:32:31] [INFO] Connection accepted
+[2020-02-01 22:32:32] [ERROR] tls: first record does not look like a TLS handshake
+[2020-02-01 22:32:32] [ERROR] tls: first record does not look like a TLS handshake
+[2020-02-01 22:32:37] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:32:37] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:32:40] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:32:40] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:33:10] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:33:10] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:26] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:26] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:33:27] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+[2020-02-01 22:33:27] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko\20100101 Firefox\74.0
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,*\*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1: The system cannot find the path specified.
+[2020-02-01 22:34:10] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:34:10] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:35:32] [INFO] Connection accepted
+[2020-02-01 22:35:32] [INFO] ServeTLS: /
+[2020-02-01 22:35:32] [INFO] Serve: /[2020-02-01 22:39:10] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:39:10] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:45:08] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:45:08] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:45:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:45:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:45:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:45:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:45:17] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:45:17] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:45:18] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:45:18] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.
+[2020-02-01 22:45:18] [INFO] Serve: GET / HTTP/1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+[2020-02-01 22:45:18] [ERROR] CreateFile ./Root\GET \ HTTP\1.1
+Host: 192.168.1.147:70
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla\5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\537.36 (KHTML, like Gecko) Chrome\79.0.3945.130 Safari\537.36
+Accept: text\html,application\xhtml+xml,application\xml;q=0.9,image\webp,image\apng,*\*;q=0.8,application\signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9: The system cannot find the path specified.

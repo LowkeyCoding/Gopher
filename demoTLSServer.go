@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	server := gophers.ServerTLS{"./log/log.txt", "192.168.1.114", "7070", "./Root", "./certs"}
+	server := gophers.ServerTLS{"./log/log.txt", "192.168.1.147", "7070", "./Root", "./certs"}
 	server.Listen(func(*string, *string, *tls.Conn) {})
 }
