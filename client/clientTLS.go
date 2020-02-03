@@ -168,9 +168,6 @@ func (client *Client) rendere(screen tcell.Screen) {
 							client.connect(line.Hostname + ":" + line.Port)
 							client.writeToServer(line.Selector, client.currentPage)
 							screen.Clear()
-							client.currentLine = 0
-							client.scrollOffset = 0
-							client.cursorPos = 0
 							client.currentPage.renderSite(screen, client)
 							client.visitedPages = append(client.visitedPages, line)*/
 						}
