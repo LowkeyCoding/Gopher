@@ -1,492 +1,0 @@
-[2020-02-01 21:39:34] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 21:39:35] [DEBUG] ItemType: 1 DisplayText: Hello				
-[2020-02-01 21:39:40] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 21:39:41] [DEBUG] ItemType: 1 DisplayText: Hello				
-[2020-02-01 21:39:43] [DEBUG] ItemType: 1 DisplayText: Home2				
-[2020-02-01 21:39:44] [DEBUG] ItemType: 1 DisplayText: Hello				
-[2020-02-01 21:40:09] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 21:40:11] [DEBUG] ItemType: I DisplayText: meme-JDwryGLouroUmjJOVGHJww.png									
-[2020-02-01 21:40:16] [DEBUG] ItemType: I DisplayText: memes-obesity.jpg									
-[2020-02-01 21:40:19] [DEBUG] ItemType: I DisplayText: putin-meme.jpg									
-[2020-02-01 21:40:21] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:22] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:22] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:22] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:23] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:23] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:23] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:23] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:23] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:23] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:23] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:24] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:24] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:24] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:24] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:24] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:24] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:25] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:25] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:25] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:25] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:25] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:25] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:25] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:26] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:26] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:26] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:27] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:27] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:27] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:28] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:28] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:29] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:29] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:29] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:30] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:30] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 21:40:54] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 21:42:39] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 21:42:41] [DEBUG] ItemType: 1 DisplayText: spicymemes									
-[2020-02-01 21:44:11] [DEBUG] ItemType: 7 DisplayText: Username:Password									
-[2020-02-01 21:45:26] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:26] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:26] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:26] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 21:45:50] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:50] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:50] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:51] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:52] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:53] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:53] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:53] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:53] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:53] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:53] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:53] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:53] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:53] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:45:56] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:57] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:57] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:57] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:57] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:57] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:58] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:58] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:58] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:58] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:45:58] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 21:46:10] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:46:10] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:46:10] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:46:10] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:46:10] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:46:10] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:46:10] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 21:47:08] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 21:53:05] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 21:53:48] [DEBUG] ItemType: 1 DisplayText: Home3				
-[2020-02-01 21:54:16] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:17] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:17] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:17] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:18] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:18] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:18] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:18] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:18] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:18] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:19] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:19] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:19] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:19] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:19] [DEBUG] ItemType: i DisplayText: Welcome to my Gopherspace!									
-[2020-02-01 21:54:37] [DEBUG] ItemType: 1 DisplayText: Hello				
-[2020-02-01 21:54:55] [DEBUG] ItemType: i DisplayText: I like cookies 19.0									
-[2020-02-01 21:55:03] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 21:59:13] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 22:02:21] [DEBUG] currentline: !
-[2020-02-01 22:02:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:19] [DEBUG] currentline: !
-[2020-02-01 22:03:19] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:20] [DEBUG] currentline: !
-[2020-02-01 22:03:20] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:20] [DEBUG] currentline: !
-[2020-02-01 22:03:20] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:21] [DEBUG] currentline: !
-[2020-02-01 22:03:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:21] [DEBUG] currentline: !
-[2020-02-01 22:03:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:21] [DEBUG] currentline: !
-[2020-02-01 22:03:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:21] [DEBUG] currentline: !
-[2020-02-01 22:03:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:21] [DEBUG] currentline: !
-[2020-02-01 22:03:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:21] [DEBUG] currentline: !
-[2020-02-01 22:03:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:21] [DEBUG] currentline: !
-[2020-02-01 22:03:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:21] [DEBUG] currentline: !
-[2020-02-01 22:03:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:21] [DEBUG] currentline: !
-[2020-02-01 22:03:21] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:38] [DEBUG] currentline: !
-[2020-02-01 22:03:38] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:03:41] [DEBUG] currentline: 
-[2020-02-01 22:03:41] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 22:05:03] [DEBUG] currentline: 6
-[2020-02-01 22:05:03] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 22:05:05] [DEBUG] currentline: 33
-[2020-02-01 22:06:09] [DEBUG] currentline: 6
-[2020-02-01 22:06:09] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 22:06:12] [DEBUG] currentline: 1
-[2020-02-01 22:06:12] [DEBUG] ItemType: 1 DisplayText: Hello				
-[2020-02-01 22:06:20] [DEBUG] currentline: 33
-[2020-02-01 22:06:20] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:06:21] [DEBUG] currentline: 0
-[2020-02-01 22:06:21] [DEBUG] ItemType: i DisplayText: --- Fun, games, and other neat things ----------------------------									
-[2020-02-01 22:06:22] [DEBUG] currentline: 33
-[2020-02-01 22:06:22] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:06:23] [DEBUG] currentline: 0
-[2020-02-01 22:06:23] [DEBUG] ItemType: i DisplayText: --- Fun, games, and other neat things ----------------------------									
-[2020-02-01 22:06:24] [DEBUG] currentline: 33
-[2020-02-01 22:06:24] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:06:25] [DEBUG] currentline: 32
-[2020-02-01 22:06:25] [DEBUG] ItemType: i DisplayText: I like cookies 21.0									
-[2020-02-01 22:06:25] [DEBUG] currentline: 32
-[2020-02-01 22:06:25] [DEBUG] ItemType: i DisplayText: I like cookies 21.0									
-[2020-02-01 22:06:26] [DEBUG] currentline: 0
-[2020-02-01 22:06:26] [DEBUG] ItemType: i DisplayText: --- Fun, games, and other neat things ----------------------------									
-[2020-02-01 22:06:27] [DEBUG] currentline: 33
-[2020-02-01 22:06:27] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:06:27] [DEBUG] currentline: 33
-[2020-02-01 22:06:27] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:06:27] [DEBUG] currentline: 33
-[2020-02-01 22:06:27] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:06:28] [DEBUG] currentline: 31
-[2020-02-01 22:06:28] [DEBUG] ItemType: i DisplayText: I like cookies 20.0									
-[2020-02-01 22:06:28] [DEBUG] currentline: 31
-[2020-02-01 22:06:28] [DEBUG] ItemType: i DisplayText: I like cookies 20.0									
-[2020-02-01 22:06:28] [DEBUG] currentline: 31
-[2020-02-01 22:06:28] [DEBUG] ItemType: i DisplayText: I like cookies 20.0									
-[2020-02-01 22:06:31] [DEBUG] currentline: 24
-[2020-02-01 22:06:31] [DEBUG] ItemType: i DisplayText: I like cookies 13.0									
-[2020-02-01 22:06:32] [DEBUG] currentline: 24
-[2020-02-01 22:06:32] [DEBUG] ItemType: i DisplayText: I like cookies 13.0									
-[2020-02-01 22:06:32] [DEBUG] currentline: 24
-[2020-02-01 22:06:32] [DEBUG] ItemType: i DisplayText: I like cookies 13.0									
-[2020-02-01 22:06:32] [DEBUG] currentline: 23
-[2020-02-01 22:06:32] [DEBUG] ItemType: i DisplayText: I like cookies 12.0									
-[2020-02-01 22:06:32] [DEBUG] currentline: 23
-[2020-02-01 22:06:32] [DEBUG] ItemType: i DisplayText: I like cookies 12.0									
-[2020-02-01 22:06:32] [DEBUG] currentline: 23
-[2020-02-01 22:06:32] [DEBUG] ItemType: i DisplayText: I like cookies 12.0									
-[2020-02-01 22:06:32] [DEBUG] currentline: 22
-[2020-02-01 22:06:32] [DEBUG] ItemType: i DisplayText: I like cookies 11.0									
-[2020-02-01 22:06:33] [DEBUG] currentline: 20
-[2020-02-01 22:06:33] [DEBUG] ItemType: i DisplayText: I like cookies 9.0									
-[2020-02-01 22:06:33] [DEBUG] currentline: 19
-[2020-02-01 22:06:33] [DEBUG] ItemType: i DisplayText: I like cookies 8.0									
-[2020-02-01 22:06:33] [DEBUG] currentline: 19
-[2020-02-01 22:06:33] [DEBUG] ItemType: i DisplayText: I like cookies 8.0									
-[2020-02-01 22:06:33] [DEBUG] currentline: 18
-[2020-02-01 22:06:33] [DEBUG] ItemType: i DisplayText: I like cookies 7.0									
-[2020-02-01 22:06:33] [DEBUG] currentline: 17
-[2020-02-01 22:06:33] [DEBUG] ItemType: i DisplayText: I like cookies 6.0									
-[2020-02-01 22:06:33] [DEBUG] currentline: 16
-[2020-02-01 22:06:33] [DEBUG] ItemType: i DisplayText: I like cookies 5.0									
-[2020-02-01 22:06:33] [DEBUG] currentline: 14
-[2020-02-01 22:06:33] [DEBUG] ItemType: i DisplayText: I like cookies 3.0									
-[2020-02-01 22:06:34] [DEBUG] currentline: 14
-[2020-02-01 22:06:34] [DEBUG] ItemType: i DisplayText: I like cookies 3.0									
-[2020-02-01 22:06:34] [DEBUG] currentline: 14
-[2020-02-01 22:06:34] [DEBUG] ItemType: i DisplayText: I like cookies 3.0									
-[2020-02-01 22:06:34] [DEBUG] currentline: 14
-[2020-02-01 22:06:34] [DEBUG] ItemType: i DisplayText: I like cookies 3.0									
-[2020-02-01 22:06:34] [DEBUG] currentline: 14
-[2020-02-01 22:06:34] [DEBUG] ItemType: i DisplayText: I like cookies 3.0									
-[2020-02-01 22:06:35] [DEBUG] currentline: 12
-[2020-02-01 22:06:35] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 22:06:35] [DEBUG] currentline: 11
-[2020-02-01 22:06:35] [DEBUG] ItemType: 7 DisplayText: Username:Password									
-[2020-02-01 22:06:35] [DEBUG] currentline: 10
-[2020-02-01 22:06:35] [DEBUG] ItemType: I DisplayText: Image				
-[2020-02-01 22:06:36] [DEBUG] currentline: 10
-[2020-02-01 22:06:36] [DEBUG] ItemType: I DisplayText: Image				
-[2020-02-01 22:06:36] [DEBUG] currentline: 9
-[2020-02-01 22:06:36] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 22:07:24] [DEBUG] currentline: 11
-[2020-02-01 22:07:24] [DEBUG] ItemType: 7 DisplayText: Username:Password									
-[2020-02-01 22:07:27] [DEBUG] currentline: 12
-[2020-02-01 22:07:27] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 22:07:29] [DEBUG] currentline: 13
-[2020-02-01 22:07:29] [DEBUG] ItemType: i DisplayText: I like cookies 2.0									
-[2020-02-01 22:07:30] [DEBUG] currentline: 14
-[2020-02-01 22:07:30] [DEBUG] ItemType: i DisplayText: I like cookies 3.0									
-[2020-02-01 22:07:32] [DEBUG] currentline: 15
-[2020-02-01 22:07:32] [DEBUG] ItemType: i DisplayText: I like cookies 4.0									
-[2020-02-01 22:07:34] [DEBUG] currentline: 10
-[2020-02-01 22:07:34] [DEBUG] ItemType: I DisplayText: Image				
-[2020-02-01 22:07:36] [DEBUG] currentline: 9
-[2020-02-01 22:07:36] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 22:07:38] [DEBUG] currentline: 0
-[2020-02-01 22:07:38] [DEBUG] ItemType: 1 DisplayText: spicymemes									
-[2020-02-01 22:07:40] [DEBUG] currentline: 0
-[2020-02-01 22:07:40] [DEBUG] ItemType: I DisplayText: ho.png			
-[2020-02-01 22:07:42] [DEBUG] currentline: 0
-[2020-02-01 22:07:42] [DEBUG] ItemType: I DisplayText: ho.png			
-[2020-02-01 22:07:44] [DEBUG] currentline: 1
-[2020-02-01 22:07:44] [DEBUG] ItemType: I DisplayText: meme-JDwryGLouroUmjJOVGHJww.png									
-[2020-02-01 22:07:45] [DEBUG] currentline: 2
-[2020-02-01 22:07:45] [DEBUG] ItemType: I DisplayText: memes-obesity.jpg									
-[2020-02-01 22:07:46] [DEBUG] currentline: 3
-[2020-02-01 22:07:46] [DEBUG] ItemType: I DisplayText: putin-meme.jpg									
-[2020-02-01 22:07:47] [DEBUG] currentline: 4
-[2020-02-01 22:07:47] [DEBUG] ItemType: I DisplayText: sstMxMh-5ab00c7bfa6bcc003622e4f5.jpg									
-[2020-02-01 22:07:49] [DEBUG] currentline: 0
-[2020-02-01 22:07:49] [DEBUG] ItemType: 1 DisplayText: spicymemes									
-[2020-02-01 22:08:03] [DEBUG] currentline: 9
-[2020-02-01 22:08:03] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 22:10:30] [DEBUG] currentline: 9
-[2020-02-01 22:10:30] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 22:10:33] [DEBUG] currentline: 1
-[2020-02-01 22:10:34] [DEBUG] ItemType: I DisplayText: meme-JDwryGLouroUmjJOVGHJww.png									
-[2020-02-01 22:10:34] [DEBUG] currentline: 3
-[2020-02-01 22:10:34] [DEBUG] ItemType: I DisplayText: putin-meme.jpg									
-[2020-02-01 22:10:34] [DEBUG] currentline: 3
-[2020-02-01 22:10:34] [DEBUG] ItemType: I DisplayText: putin-meme.jpg									
-[2020-02-01 22:10:35] [DEBUG] currentline: 0
-[2020-02-01 22:10:35] [DEBUG] ItemType: 1 DisplayText: spicymemes									
-[2020-02-01 22:10:35] [DEBUG] currentline: 0
-[2020-02-01 22:10:35] [DEBUG] ItemType: I DisplayText: ho.png			
-[2020-02-01 22:10:35] [DEBUG] currentline: 0
-[2020-02-01 22:10:35] [DEBUG] ItemType: I DisplayText: ho.png			
-[2020-02-01 22:10:35] [DEBUG] currentline: 0
-[2020-02-01 22:10:35] [DEBUG] ItemType: I DisplayText: ho.png			
-[2020-02-01 22:10:36] [DEBUG] currentline: 0
-[2020-02-01 22:10:36] [DEBUG] ItemType: I DisplayText: ho.png			
-[2020-02-01 22:10:37] [DEBUG] currentline: 1
-[2020-02-01 22:10:37] [DEBUG] ItemType: I DisplayText: meme-JDwryGLouroUmjJOVGHJww.png									
-[2020-02-01 22:10:37] [DEBUG] currentline: 3
-[2020-02-01 22:10:37] [DEBUG] ItemType: I DisplayText: putin-meme.jpg									
-[2020-02-01 22:10:37] [DEBUG] currentline: 3
-[2020-02-01 22:10:37] [DEBUG] ItemType: I DisplayText: putin-meme.jpg									
-[2020-02-01 22:10:37] [DEBUG] currentline: 0
-[2020-02-01 22:10:37] [DEBUG] ItemType: 1 DisplayText: spicymemes									
-[2020-02-01 22:10:39] [DEBUG] currentline: 1
-[2020-02-01 22:10:39] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:39] [DEBUG] currentline: 2
-[2020-02-01 22:10:39] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:39] [DEBUG] currentline: 3
-[2020-02-01 22:10:39] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:39] [DEBUG] currentline: 4
-[2020-02-01 22:10:39] [DEBUG] ItemType: i DisplayText: I like cookies 2.0									
-[2020-02-01 22:10:40] [DEBUG] currentline: 10
-[2020-02-01 22:10:40] [DEBUG] ItemType: I DisplayText: Image				
-[2020-02-01 22:10:40] [DEBUG] currentline: 10
-[2020-02-01 22:10:40] [DEBUG] ItemType: I DisplayText: Image				
-[2020-02-01 22:10:40] [DEBUG] currentline: 10
-[2020-02-01 22:10:40] [DEBUG] ItemType: I DisplayText: Image				
-[2020-02-01 22:10:40] [DEBUG] currentline: 11
-[2020-02-01 22:10:40] [DEBUG] ItemType: 7 DisplayText: Username:Password									
-[2020-02-01 22:10:40] [DEBUG] currentline: 12
-[2020-02-01 22:10:40] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 22:10:41] [DEBUG] currentline: 13
-[2020-02-01 22:10:41] [DEBUG] ItemType: i DisplayText: I like cookies 2.0									
-[2020-02-01 22:10:41] [DEBUG] currentline: 14
-[2020-02-01 22:10:41] [DEBUG] ItemType: i DisplayText: I like cookies 3.0									
-[2020-02-01 22:10:41] [DEBUG] currentline: 15
-[2020-02-01 22:10:41] [DEBUG] ItemType: i DisplayText: I like cookies 4.0									
-[2020-02-01 22:10:41] [DEBUG] currentline: 16
-[2020-02-01 22:10:41] [DEBUG] ItemType: i DisplayText: I like cookies 5.0									
-[2020-02-01 22:10:41] [DEBUG] currentline: 17
-[2020-02-01 22:10:41] [DEBUG] ItemType: i DisplayText: I like cookies 6.0									
-[2020-02-01 22:10:41] [DEBUG] currentline: 19
-[2020-02-01 22:10:41] [DEBUG] ItemType: i DisplayText: I like cookies 8.0									
-[2020-02-01 22:10:41] [DEBUG] currentline: 20
-[2020-02-01 22:10:41] [DEBUG] ItemType: i DisplayText: I like cookies 9.0									
-[2020-02-01 22:10:42] [DEBUG] currentline: 21
-[2020-02-01 22:10:42] [DEBUG] ItemType: i DisplayText: I like cookies 10.0									
-[2020-02-01 22:10:42] [DEBUG] currentline: 22
-[2020-02-01 22:10:42] [DEBUG] ItemType: i DisplayText: I like cookies 11.0									
-[2020-02-01 22:10:42] [DEBUG] currentline: 23
-[2020-02-01 22:10:42] [DEBUG] ItemType: i DisplayText: I like cookies 12.0									
-[2020-02-01 22:10:42] [DEBUG] currentline: 24
-[2020-02-01 22:10:42] [DEBUG] ItemType: i DisplayText: I like cookies 13.0									
-[2020-02-01 22:10:42] [DEBUG] currentline: 25
-[2020-02-01 22:10:42] [DEBUG] ItemType: i DisplayText: I like cookies 14.0									
-[2020-02-01 22:10:42] [DEBUG] currentline: 27
-[2020-02-01 22:10:42] [DEBUG] ItemType: i DisplayText: I like cookies 16.0									
-[2020-02-01 22:10:43] [DEBUG] currentline: 28
-[2020-02-01 22:10:43] [DEBUG] ItemType: i DisplayText: I like cookies 17.0									
-[2020-02-01 22:10:43] [DEBUG] currentline: 29
-[2020-02-01 22:10:43] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 22:10:43] [DEBUG] currentline: 30
-[2020-02-01 22:10:43] [DEBUG] ItemType: i DisplayText: I like cookies 19.0									
-[2020-02-01 22:10:43] [DEBUG] currentline: 31
-[2020-02-01 22:10:43] [DEBUG] ItemType: i DisplayText: I like cookies 20.0									
-[2020-02-01 22:10:43] [DEBUG] currentline: 32
-[2020-02-01 22:10:43] [DEBUG] ItemType: i DisplayText: I like cookies 21.0									
-[2020-02-01 22:10:43] [DEBUG] currentline: 33
-[2020-02-01 22:10:43] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:10:44] [DEBUG] currentline: 0
-[2020-02-01 22:10:44] [DEBUG] ItemType: i DisplayText: --- Fun, games, and other neat things ----------------------------									
-[2020-02-01 22:10:44] [DEBUG] currentline: 1
-[2020-02-01 22:10:44] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:44] [DEBUG] currentline: 2
-[2020-02-01 22:10:44] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:44] [DEBUG] currentline: 4
-[2020-02-01 22:10:44] [DEBUG] ItemType: i DisplayText: I like cookies 2.0									
-[2020-02-01 22:10:44] [DEBUG] currentline: 5
-[2020-02-01 22:10:44] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:44] [DEBUG] currentline: 6
-[2020-02-01 22:10:44] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 22:10:44] [DEBUG] currentline: 1
-[2020-02-01 22:10:45] [DEBUG] ItemType: 1 DisplayText: Hello				
-[2020-02-01 22:10:45] [DEBUG] currentline: 1
-[2020-02-01 22:10:45] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:45] [DEBUG] currentline: 3
-[2020-02-01 22:10:45] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:45] [DEBUG] currentline: 4
-[2020-02-01 22:10:45] [DEBUG] ItemType: i DisplayText: I like cookies 2.0									
-[2020-02-01 22:10:45] [DEBUG] currentline: 5
-[2020-02-01 22:10:45] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:45] [DEBUG] currentline: 7
-[2020-02-01 22:10:45] [DEBUG] ItemType: 1 DisplayText: Home2				
-[2020-02-01 22:10:46] [DEBUG] currentline: 1
-[2020-02-01 22:10:46] [DEBUG] ItemType: 1 DisplayText: Hello				
-[2020-02-01 22:10:46] [DEBUG] currentline: 1
-[2020-02-01 22:10:46] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:10:47] [DEBUG] currentline: 10
-[2020-02-01 22:10:47] [DEBUG] ItemType: I DisplayText: Image				
-[2020-02-01 22:10:47] [DEBUG] currentline: 11
-[2020-02-01 22:10:47] [DEBUG] ItemType: 7 DisplayText: Username:Password									
-[2020-02-01 22:10:47] [DEBUG] currentline: 12
-[2020-02-01 22:10:48] [DEBUG] ItemType: i DisplayText: I like cookies 1.0									
-[2020-02-01 22:10:48] [DEBUG] currentline: 13
-[2020-02-01 22:10:48] [DEBUG] ItemType: i DisplayText: I like cookies 2.0									
-[2020-02-01 22:10:49] [DEBUG] currentline: 10
-[2020-02-01 22:10:49] [DEBUG] ItemType: I DisplayText: Image				
-[2020-02-01 22:10:49] [DEBUG] currentline: 9
-[2020-02-01 22:10:49] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 22:10:53] [DEBUG] currentline: 9
-[2020-02-01 22:10:53] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 22:10:54] [DEBUG] currentline: 0
-[2020-02-01 22:10:54] [DEBUG] ItemType: 1 DisplayText: spicymemes									
-[2020-02-01 22:10:54] [DEBUG] currentline: 0
-[2020-02-01 22:10:54] [DEBUG] ItemType: I DisplayText: ho.png			
-[2020-02-01 22:10:54] [DEBUG] currentline: 0
-[2020-02-01 22:10:54] [DEBUG] ItemType: I DisplayText: ho.png			
-[2020-02-01 22:10:55] [DEBUG] currentline: 2
-[2020-02-01 22:10:55] [DEBUG] ItemType: I DisplayText: memes-obesity.jpg									
-[2020-02-01 22:10:55] [DEBUG] currentline: 3
-[2020-02-01 22:10:55] [DEBUG] ItemType: I DisplayText: putin-meme.jpg									
-[2020-02-01 22:10:59] [DEBUG] currentline: 10
-[2020-02-01 22:10:59] [DEBUG] ItemType: I DisplayText: Image				
-[2020-02-01 22:11:00] [DEBUG] currentline: 9
-[2020-02-01 22:11:00] [DEBUG] ItemType: 1 DisplayText: MEMES				
-[2020-02-01 22:11:02] [DEBUG] currentline: 0
-[2020-02-01 22:11:02] [DEBUG] ItemType: 1 DisplayText: spicymemes									
-[2020-02-01 22:11:02] [DEBUG] currentline: 0
-[2020-02-01 22:11:02] [DEBUG] ItemType: I DisplayText: ho.png			
-[2020-02-01 22:11:05] [DEBUG] currentline: 0
-[2020-02-01 22:11:05] [DEBUG] ItemType: i DisplayText: --- Fun, games, and other neat things ----------------------------									
-[2020-02-01 22:11:05] [DEBUG] currentline: 1
-[2020-02-01 22:11:05] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:11:05] [DEBUG] currentline: 3
-[2020-02-01 22:11:05] [DEBUG] ItemType: i DisplayText:  	
-[2020-02-01 22:11:05] [DEBUG] currentline: 4
-[2020-02-01 22:11:05] [DEBUG] ItemType: i DisplayText: I like cookies 2.0									
-[2020-02-01 22:11:06] [DEBUG] currentline: 6
-[2020-02-01 22:11:06] [DEBUG] ItemType: 1 DisplayText: Home	
-[2020-02-01 22:11:06] [DEBUG] currentline: 1
-[2020-02-01 22:11:06] [DEBUG] ItemType: 1 DisplayText: Hello				
-[2020-02-01 22:11:07] [DEBUG] currentline: 16
-[2020-02-01 22:11:07] [DEBUG] ItemType: i DisplayText: I like cookies 5.0									
-[2020-02-01 22:11:07] [DEBUG] currentline: 16
-[2020-02-01 22:11:08] [DEBUG] ItemType: i DisplayText: I like cookies 5.0									
-[2020-02-01 22:11:08] [DEBUG] currentline: 16
-[2020-02-01 22:11:08] [DEBUG] ItemType: i DisplayText: I like cookies 5.0									
-[2020-02-01 22:11:08] [DEBUG] currentline: 16
-[2020-02-01 22:11:08] [DEBUG] ItemType: i DisplayText: I like cookies 5.0									
-[2020-02-01 22:11:08] [DEBUG] currentline: 17
-[2020-02-01 22:11:08] [DEBUG] ItemType: i DisplayText: I like cookies 6.0									
-[2020-02-01 22:11:08] [DEBUG] currentline: 18
-[2020-02-01 22:11:08] [DEBUG] ItemType: i DisplayText: I like cookies 7.0									
-[2020-02-01 22:11:09] [DEBUG] currentline: 19
-[2020-02-01 22:11:09] [DEBUG] ItemType: i DisplayText: I like cookies 8.0									
-[2020-02-01 22:11:09] [DEBUG] currentline: 20
-[2020-02-01 22:11:09] [DEBUG] ItemType: i DisplayText: I like cookies 9.0									
-[2020-02-01 22:11:09] [DEBUG] currentline: 20
-[2020-02-01 22:11:09] [DEBUG] ItemType: i DisplayText: I like cookies 9.0									
-[2020-02-01 22:11:09] [DEBUG] currentline: 20
-[2020-02-01 22:11:09] [DEBUG] ItemType: i DisplayText: I like cookies 9.0									
-[2020-02-01 22:11:09] [DEBUG] currentline: 20
-[2020-02-01 22:11:09] [DEBUG] ItemType: i DisplayText: I like cookies 9.0									
-[2020-02-01 22:11:10] [DEBUG] currentline: 20
-[2020-02-01 22:11:10] [DEBUG] ItemType: i DisplayText: I like cookies 9.0									
-[2020-02-01 22:11:10] [DEBUG] currentline: 22
-[2020-02-01 22:11:10] [DEBUG] ItemType: i DisplayText: I like cookies 11.0									
-[2020-02-01 22:11:10] [DEBUG] currentline: 23
-[2020-02-01 22:11:10] [DEBUG] ItemType: i DisplayText: I like cookies 12.0									
-[2020-02-01 22:11:10] [DEBUG] currentline: 24
-[2020-02-01 22:11:10] [DEBUG] ItemType: i DisplayText: I like cookies 13.0									
-[2020-02-01 22:11:11] [DEBUG] currentline: 24
-[2020-02-01 22:11:11] [DEBUG] ItemType: i DisplayText: I like cookies 13.0									
-[2020-02-01 22:11:11] [DEBUG] currentline: 24
-[2020-02-01 22:11:11] [DEBUG] ItemType: i DisplayText: I like cookies 13.0									
-[2020-02-01 22:11:12] [DEBUG] currentline: 26
-[2020-02-01 22:11:12] [DEBUG] ItemType: i DisplayText: I like cookies 15.0									
-[2020-02-01 22:11:12] [DEBUG] currentline: 27
-[2020-02-01 22:11:12] [DEBUG] ItemType: i DisplayText: I like cookies 16.0									
-[2020-02-01 22:11:12] [DEBUG] currentline: 29
-[2020-02-01 22:11:12] [DEBUG] ItemType: i DisplayText: I like cookies 18.0									
-[2020-02-01 22:11:12] [DEBUG] currentline: 30
-[2020-02-01 22:11:12] [DEBUG] ItemType: i DisplayText: I like cookies 19.0									
-[2020-02-01 22:11:13] [DEBUG] currentline: 31
-[2020-02-01 22:11:13] [DEBUG] ItemType: i DisplayText: I like cookies 20.0									
-[2020-02-01 22:11:13] [DEBUG] currentline: 31
-[2020-02-01 22:11:13] [DEBUG] ItemType: i DisplayText: I like cookies 20.0									
-[2020-02-01 22:11:13] [DEBUG] currentline: 32
-[2020-02-01 22:11:13] [DEBUG] ItemType: i DisplayText: I like cookies 21.0									
-[2020-02-01 22:11:13] [DEBUG] currentline: 33
-[2020-02-01 22:11:13] [DEBUG] ItemType: i DisplayText: I like cookies END									
-[2020-02-01 22:11:28] [DEBUG] currentline: 11
-[2020-02-01 22:11:28] [DEBUG] ItemType: 7 DisplayText: Username:Password									
